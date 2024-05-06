@@ -48,7 +48,7 @@
     </header>
 
     <main class="bg-white dark:bg-blue-400 flex-col items-center justify-center w-full pt-11">
-        <h1 class="text-6xl font-medium tracking-wide text-gray-800 dark:text-white text-center">Why Choose Aible?</h1>
+        <h1 class="text-4xl font-medium tracking-wide text-gray-800 dark:text-white text-center">Why Choose Aible?</h1>
         <div class="py-16">
             <div class="mx-auto px-6 max-w-6xl text-gray-500">
                 <div class="relative">
